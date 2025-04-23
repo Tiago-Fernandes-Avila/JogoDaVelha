@@ -43,7 +43,7 @@ criartabu(Campos);
                     vezy = scan.nextInt();
 
                 }
-
+        /// 
                 if (jogada) {
 
                     Campos[vezx][vezy] = 'X';
